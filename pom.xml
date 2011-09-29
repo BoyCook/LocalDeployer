@@ -4,7 +4,7 @@
   <groupId>org.cccs.maven</groupId>
   <artifactId>local-deployer</artifactId>
   <packaging>maven-plugin</packaging>
-  <version>1.0.1</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>Local-Deployer Maven Plugin</name>
   <url>http://craigcook.co.uk</url>
   <parent>
