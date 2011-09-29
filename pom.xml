@@ -8,12 +8,11 @@
   <name>Local-Deployer Maven Plugin</name>
   <url>http://craigcook.co.uk</url>
   <parent>
-	<groupId>org.cccs.build</groupId>
-	<artifactId>parent-pom</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+      <groupId>org.cccs.build</groupId>
+      <artifactId>default-pom</artifactId>
+      <version>1.0.1-SNAPSHOT</version>
   </parent>
   <properties>
-      <java.version>1.6</java.version>
       <testng.version>5.8</testng.version>
       <catalina.version>5.5.9</catalina.version>                                         
   </properties>
